@@ -19,8 +19,7 @@ import com.MMP.project.TestBase.TestBase;
 import com.MMP.project.Utils.ExcelReader;
 
 public class PatientPortal extends TestBase {
-//changes made
-	//Added new changes 
+//branch1 changes
 	@BeforeTest(alwaysRun=true)
 	@Parameters({"browser","url"})
 	public void set(String browser,String url)
