@@ -19,7 +19,7 @@ import com.MMP.project.TestBase.TestBase;
 import com.MMP.project.Utils.ExcelReader;
 
 public class PatientPortal extends TestBase {
-//branch1 changes pushed to Selenium
+//branch1 changes pushed to Selenium again
 	@BeforeTest(alwaysRun=true)
 	@Parameters({"browser","url"})
 	public void set(String browser,String url)
